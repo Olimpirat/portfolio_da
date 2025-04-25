@@ -3,13 +3,13 @@
 Учебные работы на курсе Яндекс-Практикума [Аналитик данных расширенный (12 месяцев)](https://practicum.yandex.ru/data-analyst/?from=catalog):
 Сборки ПО (основное):
 - 'Практикум' - Python 3.9.5; pandas 1.2.4; matplotlib 3.3.4
-- 'local' - Python 3.9.5; pandas 1.2.4; matplotlib 3.3.4
+- 'local' - Python 3.12.4; pandas 2.2.2; matplotlib 3.8.4
 
 
 Основные учебные работы:
 * [Основы ML](https://github.com/Olimpirat/portfolio_da/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_ML%20(gym_churn).ipynb) - предсказание оттока и кластеризация клиентов при помощи ML. Сборка: 'Практикум'. Мая 2025
+* [Приоритизация и проверка гипотез (анализ A/B тест)](https://github.com/Olimpirat/portfolio_da/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20A-B%20%D1%82%D0%B5%D1%81%D1%82%D0%B0.ipynb) - приоритизация гипотез методами ICE/RICE, анализ A/B-теста. Сборка: 'Практикум'. Март 2025
 
 
-
-Другие уебные работы:
+Другие учебные работы:
 * 

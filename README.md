@@ -20,3 +20,7 @@
 * [дашбор tableau](https://public.tableau.com/views/test_ted/sheet25?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * [Анализ рынка общепита в Москве](https://github.com/Olimpirat/portfolio_da/blob/main/catering-Moscow.ipynb) - анализ с большим кол-вом обработки и визуализций. Сборка: 'local'. Октябрь 2025.
 * [Исследование данных о российском кинопрокате](https://github.com/Olimpirat/portfolio_da/blob/main/film_distribution.ipynb) - анализ данных с МКРФ. Сборка: 'Практикум'. Сентябрь 2025.
+
+
+*Примечание:* <br>
+*Предоставлены не все выполненные работы*
